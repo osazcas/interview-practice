@@ -7,4 +7,4 @@ To compile, on the terminal, do:
 
 To run:
 
-```java Battey```
+```java Battery```
